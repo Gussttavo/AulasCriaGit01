@@ -1,0 +1,11 @@
+touch Arquivo1,txt
+ls
+$ ls
+$ pwd
+cd ..
+
+touch Arquivo1,txt
+ls
+$ ls
+$ pwd
+cd ..
